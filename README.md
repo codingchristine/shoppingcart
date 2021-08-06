@@ -1,2 +1,2 @@
-# shoppingcart
-Repository for MIT shopping cart exercise
+# navBarExercises
+Basic Exercises in Navbar, Props etc
